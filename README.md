@@ -1,1 +1,1 @@
-Powershell Scripts for Windows Wazuh Agent
+Powershell/Bash/Python Scripts integrated with Wazuh Agent
