@@ -1,8 +1,8 @@
 ################################
 ### Script to execute Sysinternals/PSSuspend - Suspend processes executed not part of the approved SoftwarePolicy.
-### Aurora Networks Managed Services
-### https://www.auroranetworks.net
-### info@auroranetworks.net
+### SOCFortress
+### https://www.socfortress.co
+### info@socfortress.co
 ################################
 ##########
 # PSSupend will be executed using the Process ID in the sysmon_event1 event that triggered the Software Policy Violation.
