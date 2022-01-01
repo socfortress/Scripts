@@ -1,1 +1,1 @@
-# Scripts-Windows
+Powershell Scripts for Windows Wazuh Agent
