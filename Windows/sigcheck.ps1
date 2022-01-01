@@ -1,8 +1,8 @@
 ################################
 ### Script to execute Sysinternals/Sigcheck - Identify VirusTotal hits in Binaries/Exec Files
-### Aurora Networks Managed Services
-### https://www.auroranetworks.net
-### info@auroranetworks.net
+### SOCFortress
+### https://www.socfortress.co
+### info@socfortress.co
 ################################
 ##########
 # Sigcheck will be run against all executables found in C:\Users\ and subfolders
