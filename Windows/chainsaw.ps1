@@ -1,8 +1,8 @@
 ################################
 ### Script to execute F-Secure/Chainsaw - Identify Malicious activitie recorded in WinEvtLogs using Sigma Rules
-### Aurora Networks Managed Services
-### https://www.auroranetworks.net
-### info@auroranetworks.net
+### SOCFortress
+### https://www.socfortress.co
+### info@socfortress.co
 ################################
 ##########
 # Chainsaw will be run against all event logs found in the default location
